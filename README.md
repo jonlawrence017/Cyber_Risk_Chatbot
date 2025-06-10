@@ -1,4 +1,4 @@
-# Cybersecurity Chatbot Repository
+# Cyber Risk Chatbot Repository
 
 **Work in Progress**
 
