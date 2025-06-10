@@ -8,7 +8,6 @@ This repository is actively under development to build a cybersecurity chatbot t
 - Develop a robust chatbot using NLP models (e.g., DistilBERT) to identify cyber vulnerabilities.
 - Maintain and expand a SQLite database (`cyber_threats.db`) with threat data.
 - Provide actionable risk assessments and mitigation advice.
-- Enable easy analysis of threat data through scripts (e.g., `analyze_cyber_threats.py`).
 - Integrate LangChain for agentic workflows to generate concise responses.
 
-Stay tuned for updates as we enhance functionality and add features!
+Stay tuned for updates!
